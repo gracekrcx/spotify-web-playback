@@ -11,6 +11,7 @@
 就影片中的講解，找到了底下的範例  
 web-playback-sdk/guide 這個範例，使用的是 react + express  
 就沒有這樣的問題  
+解決的方式，是使用 backend 的方式去處理 api key
 
 ![img](https://bit.ly/39Brf1j)
 ![img](https://bit.ly/3yjXgWe)
